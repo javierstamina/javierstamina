@@ -23,8 +23,9 @@
 
 </p>
 <br/>
+<b>IDIOMAS:</b>
 <p>
-   <b>IDIOMAS:</b>
+
 - Español (Nativo).
 - Inglés B2.
 - Chino Mandarín 1-HSK
