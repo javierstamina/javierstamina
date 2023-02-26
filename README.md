@@ -18,9 +18,16 @@
 
 - 🔭 Estoy trabajando de forma autónoma Desarrollando web's y en SEO/SEM.
 - 🌱 Actualmente estoy aprendiendo Ruby.
-- 💬 Especialista en SEO
+- 💬 Especialista en SEO.
 - 📫 Contáctame por mi Linkedin: https://www.linkedin.com/in/javierargo/
 
+</p>
+<br/>
+<p>
+   <b>IDIOMAS:</b>
+- Español (Nativo).
+- Inglés B2.
+- Chino Mandarín 1-HSK
 </p>
 
 <!--
