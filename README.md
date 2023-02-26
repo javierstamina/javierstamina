@@ -14,6 +14,14 @@
 <p/>
 
 <br/>
+<p>
+
+- 🔭 Estoy trabajando de forma autónoma Desarrollando web's y en SEO/SEM.
+- 🌱 Actualmente estoy aprendiendo Ruby.
+- 💬 Especialista en SEO
+- 📫 Contáctame por mi Linkedin: https://www.linkedin.com/in/javierargo/
+
+</p>
 
 <!--
 **javierstamina/javierstamina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
