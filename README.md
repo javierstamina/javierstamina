@@ -37,6 +37,7 @@
 [![Repo 1](https://img.shields.io/badge/Repo%201-Visit-blue?logo=github)](https://github.com/javierstamina/Certificados)
 [![Repo 2](https://img.shields.io/badge/Repo%202-Visit-blue?logo=github)](https://github.com/javierstamina/Certificados-udemy)
 [![Repo 3](https://img.shields.io/badge/Repo%203-Visit-blue?logo=github)](https://github.com/javierstamina/scrum)
+[![mi-repo-importante](https://img.shields.io/badge/-mi--repo--importante-brightgreen?style=flat-square&logo=github)](https://github.com/javierstamina/Certificados)
 
 <!--
 **javierstamina/javierstamina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
