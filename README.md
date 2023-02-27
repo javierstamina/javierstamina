@@ -45,8 +45,8 @@
 [![MongoDB version](https://img.shields.io/badge/MongoDB-5-green.svg?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![Oracle version](https://img.shields.io/badge/Oracle-19c-red.svg?style=for-the-badge&logo=oracle&logoColor=white)]()
 </br>
-[![AWS EC2](https://img.shields.io/badge/AWS-EC2-yellow.svg?logo=amazon-aws&logoColor=white)]()
-[![Google Cloud Compute Engine](https://img.shields.io/badge/Google%20Cloud-Compute%20Engine-blue.svg?logo=google-cloud&logoColor=white)]()
+[![AWS EC2](https://img.shields.io/badge/AWS-EC2-yellow.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+[![Google Cloud Compute Engine](https://img.shields.io/badge/Google%20Cloud-Compute%20Engine-blue.svg?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 
 </br>
 Y alguna más...
