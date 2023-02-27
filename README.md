@@ -46,6 +46,11 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![SQL Server](https://img.shields.io/badge/SQL_Server-2019-blue.svg?logo=microsoft-sql-server&logoColor=white)]()
 </br>
+![PHP version](https://img.shields.io/badge/PHP-8.0-blue.svg?logo=php&logoColor=white)
+![Python version](https://img.shields.io/badge/Python-3.9-blue.svg?logo=python&logoColor=white)
+![Ruby version](https://img.shields.io/badge/Ruby-3.0-red.svg?logo=ruby&logoColor=white)
+![Java version](https://img.shields.io/badge/Java-16-orange.svg?logo=java&logoColor=white)
+</br>
 Y alguna más...
 
 
