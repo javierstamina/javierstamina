@@ -59,6 +59,12 @@
 ![Laravel version](https://img.shields.io/badge/Laravel-8-red.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django version](https://img.shields.io/badge/Django-3.2-green.svg?style=for-the-badge&logo=django&logoColor=white)
 </br>
+![SQL Server version](https://img.shields.io/badge/SQL_Server-2019-red.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL version](https://img.shields.io/badge/MySQL-8-blue.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB version](https://img.shields.io/badge/MongoDB-5-green.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle version](https://img.shields.io/badge/Oracle-19c-red.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
+</br>
 Y alguna más...
 
 
