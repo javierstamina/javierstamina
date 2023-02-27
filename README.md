@@ -55,11 +55,11 @@ Y alguna más...
 <!-- Idiomas -->
 ### IDIOMAS:
 
-[![Español nativo](https://img.shields.io/badge/Español-Nativo-green.svg)]()
+[![Español nativo](https://img.shields.io/badge/Español-Nativo-green.svg?style=for-the-badge)]()
 </br>
-[![Inglés B2](https://img.shields.io/badge/Inglés-B2-blue.svg)]()
+[![Inglés B2](https://img.shields.io/badge/Inglés-B2-blue.svg?style=for-the-badge)]()
 </br>
-[![Chino Mandarín 1-HSK](https://img.shields.io/badge/Chino-Mandarín%201--HSK-red.svg)]()
+[![Chino Mandarín 1-HSK](https://img.shields.io/badge/Chino-Mandarín%201--HSK-red.svg?style=for-the-badge)]()
 </br>
 <p>
 - Español (Nativo).
