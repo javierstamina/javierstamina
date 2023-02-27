@@ -46,14 +46,14 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/SQL_Server-2019-blue.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]()
 </br>
-![PHP version](https://img.shields.io/badge/PHP-8.0-blue.svg?logo=php&logoColor=white)
-![Python version](https://img.shields.io/badge/Python-3.9-blue.svg?logo=python&logoColor=white)
-![Ruby version](https://img.shields.io/badge/Ruby-3.0-red.svg?logo=ruby&logoColor=white)
-![Java version](https://img.shields.io/badge/Java-16-orange.svg?logo=java&logoColor=white)
+![PHP version](https://img.shields.io/badge/PHP-8.0-blue.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python version](https://img.shields.io/badge/Python-3.9-blue.svg?style=for-the-badge&logo=python&logoColor=white)
+![Ruby version](https://img.shields.io/badge/Ruby-3.0-red.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Java version](https://img.shields.io/badge/Java-16-orange.svg?style=for-the-badge&logo=java&logoColor=white)
 </br>
-![Angular version](https://img.shields.io/badge/Angular-12-red.svg?logo=angular&logoColor=white)
-![Laravel version](https://img.shields.io/badge/Laravel-8-red.svg?logo=laravel&logoColor=white)
-![Django version](https://img.shields.io/badge/Django-3.2-green.svg?logo=django&logoColor=white)
+![Angular version](https://img.shields.io/badge/Angular-12-red.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Laravel version](https://img.shields.io/badge/Laravel-8-red.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Django version](https://img.shields.io/badge/Django-3.2-green.svg?style=for-the-badge&logo=django&logoColor=white)
 </br>
 Y alguna más...
 
