@@ -23,8 +23,9 @@
 
 </p>
 <br/>
-<p>
+
 ## Tecnologías Informáticas:
+<p>
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
@@ -47,8 +48,8 @@
 Y alguna más...
 </p>
 
-
-###IDIOMAS:
+<!-- Idiomas -->
+### IDIOMAS:
 <p>
 
 - Español (Nativo).
@@ -57,7 +58,7 @@ Y alguna más...
 </p>
 
 <!-- Repositorios importantes -->
-### Certificados
+## Certificados
 | Repositorio | Enlace |
 | ----------- | ----------- |
 |Certificados|[![Certificados](https://img.shields.io/badge/Repo%201-Visit-blue?logo=github)](https://github.com/javierstamina/Certificados)|
