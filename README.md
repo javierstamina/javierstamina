@@ -45,11 +45,8 @@
 [![MongoDB version](https://img.shields.io/badge/MongoDB-5-green.svg?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![Oracle version](https://img.shields.io/badge/Oracle-19c-red.svg?style=for-the-badge&logo=oracle&logoColor=white)]()
 </br>
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
-[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
+[![AWS EC2](https://img.shields.io/badge/AWS-EC2-yellow.svg?logo=amazon-aws&logoColor=white)]()
+[![Google Cloud Compute Engine](https://img.shields.io/badge/Google%20Cloud-Compute%20Engine-blue.svg?logo=google-cloud&logoColor=white)]()
 
 </br>
 Y alguna más...
