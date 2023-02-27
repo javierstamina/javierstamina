@@ -44,7 +44,7 @@
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![SQL Server](https://img.shields.io/badge/SQL_Server-2019-blue.svg&logo=microsoft-sql-server&logoColor=101010)]()
+[![SQL Server](https://img.shields.io/badge/SQL_Server-2019-blue.svg?logo=microsoft-sql-server&logoColor=101010)]()
 </br>
 ![PHP version](https://img.shields.io/badge/PHP-8.0-blue.svg?logo=php&logoColor=white)
 ![Python version](https://img.shields.io/badge/Python-3.9-blue.svg?logo=python&logoColor=white)
