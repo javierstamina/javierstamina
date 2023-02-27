@@ -70,7 +70,7 @@ Y alguna más...
 |Certificados|[![Certificados](https://img.shields.io/badge/Repo%201-Visit-blue?style=for-the-badge&logo=github)](https://github.com/javierstamina/Certificados)|
 |Certificados de Udemy|[![Udemy](https://img.shields.io/badge/Repo%202-Visit-blue?style=for-the-badge&logo=github)](https://github.com/javierstamina/Certificados-udemy)|
 |Scrum|[![Scrum](https://img.shields.io/badge/Repo%203-Visit-blue?style=for-the-badge&logo=github)](https://github.com/javierstamina/scrum)|
-|SEMRush|[![SEMRush](https://img.shields.io/badge/Repo%203-Visit-blue?style=for-the-badge&logo=github)](https://github.com/javierstamina/SEMRush)|
+|SEMRush|[![SEMRush](https://img.shields.io/badge/Repo%204-Visit-blue?style=for-the-badge&logo=github)](https://github.com/javierstamina/SEMRush)|
 
 <!--
 **javierstamina/javierstamina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
