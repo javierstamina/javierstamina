@@ -61,11 +61,7 @@ Y alguna más...
 </br>
 [![Chino Mandarín 1-HSK](https://img.shields.io/badge/Chino-Mandarín%201--HSK-red.svg?style=for-the-badge)]()
 </br>
-<p>
-- Español (Nativo).
-- Inglés B2.
-- Chino Mandarín 1-HSK
-</p>
+
 
 <!-- Repositorios importantes -->
 ## Certificados
