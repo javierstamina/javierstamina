@@ -54,8 +54,14 @@ Y alguna más...
 
 <!-- Idiomas -->
 ### IDIOMAS:
-<p>
 
+[![Español nativo](https://img.shields.io/badge/Español-Nativo-green.svg)]()
+</br>
+[![Inglés B2](https://img.shields.io/badge/Inglés-B2-blue.svg)]()
+</br>
+[![Chino Mandarín 1-HSK](https://img.shields.io/badge/Chino-Mandarín%201--HSK-red.svg)]()
+</br>
+<p>
 - Español (Nativo).
 - Inglés B2.
 - Chino Mandarín 1-HSK
