@@ -44,12 +44,16 @@
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![SQL Server](https://img.shields.io/badge/SQL_Server-2019-blue.svg?logo=microsoft-sql-server&logoColor=101010)]()
+[![SQL Server](https://img.shields.io/badge/SQL_Server-2019-blue.svg?logo=microsoft-sql-server&logoColor=white)]()
 </br>
 ![PHP version](https://img.shields.io/badge/PHP-8.0-blue.svg?logo=php&logoColor=white)
 ![Python version](https://img.shields.io/badge/Python-3.9-blue.svg?logo=python&logoColor=white)
 ![Ruby version](https://img.shields.io/badge/Ruby-3.0-red.svg?logo=ruby&logoColor=white)
 ![Java version](https://img.shields.io/badge/Java-16-orange.svg?logo=java&logoColor=white)
+</br>
+![Angular version](https://img.shields.io/badge/Angular-12-red.svg?logo=angular&logoColor=white)
+![Laravel version](https://img.shields.io/badge/Laravel-8-red.svg?logo=laravel&logoColor=white)
+![Django version](https://img.shields.io/badge/Django-3.2-green.svg?logo=django&logoColor=white)
 </br>
 Y alguna más...
 
