@@ -18,7 +18,7 @@
 
 - 🔭 Estoy trabajando de forma autónoma Desarrollando web's y en SEO/SEM.
 - 🌱 Actualmente estoy aprendiendo Ruby.
-- 💬 Especialista en SEO.
+- 💬 Especialista en SEO (Posicionamiento web en buscadores).
 - 📫 Contáctame por mi Linkedin: <i class="fab fa-linkedin"> https://www.linkedin.com/in/javierargo/</i>
 
 </p>
