@@ -80,7 +80,7 @@ Y alguna más...
     <img src="https://github.com/javierstamina/javierstamina/blob/main/badges/business-model-canvas-essentials-professional-certification-bmcepc.png" style="width: 150px; height: 150px; margin: 20px;">
   </a>
   <a href="https://www.credly.com/badges/a2a40900-0b46-4b41-ae7f-cfd1c745594e/public_url">
-    <img src=" https://github.com/javierstamina/javierstamina/blob/main/badges/digital-marketing-professional-certificate-dmpc.png" style="width: 150px; height: 150px; margin: 20px;">
+    <img src="https://github.com/javierstamina/javierstamina/blob/main/badges/digital-marketing-professional-certificate-dmpc.png" style="width: 150px; height: 150px; margin: 20px;">
   </a>
   <a href="https://www.credly.com/badges/eed1361b-ccda-49e5-9491-f8601f7a9f12/public_url)">
     <img src="https://github.com/javierstamina/javierstamina/blob/main/badges/cyber-security-foundation-professional-certificate-csfpc.png  " style="width: 150px; height: 150px; margin: 20px;">
