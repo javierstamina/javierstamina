@@ -72,6 +72,14 @@ Y alguna más...
 |Scrum|[![Scrum](https://img.shields.io/badge/Repo%203-Visit-blue?style=for-the-badge&logo=github)](https://github.com/javierstamina/scrum)|
 |SEMRush|[![SEMRush](https://img.shields.io/badge/Repo%204-Visit-blue?style=for-the-badge&logo=github)](https://github.com/javierstamina/SEMRush)|
 
+
+<!-- Badges -->
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1cbc819c-02c0-45cc-8b1b-d6c1bc167356" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a2a40900-0b46-4b41-ae7f-cfd1c745594e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eed1361b-ccda-49e5-9491-f8601f7a9f12" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eed1361b-ccda-49e5-9491-f8601f7a9f12" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
 <!--
 **javierstamina/javierstamina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
