@@ -88,6 +88,10 @@ Y alguna más...
   <a href="https://www.credly.com/badges/eb5d963c-9d6a-4c69-95e8-89f3a4ee21f3/public_url">
     <img src="https://github.com/javierstamina/javierstamina/blob/main/badges/scrum-foundation-professional-certificate-sfpc.1.png" style="width: 150px; height: 150px; margin: 20px;">
   </a>
+   </br>
+     <a href="https://www.credly.com/users/javier-alejandro-arteaga-gonzales/badges" style="background-color: #007bff; color: #fff; padding: 10px 20px; border-radius: 5px; 
+   text-decoration: none; font-size: 18px; transition: background-color 0.3s ease;">Ver más insignias</a>
+</div>
   <!-- Agrega tantos badges como quieras -->
 </div>
 
