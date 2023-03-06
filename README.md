@@ -74,7 +74,7 @@ Y alguna más...
 
 
 <!-- Badges -->
-## Insginias
+## Insignias
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <a href="https://www.credly.com/badges/1cbc819c-02c0-45cc-8b1b-d6c1bc167356/public_url">
     <img src="https://github.com/javierstamina/javierstamina/blob/main/badges/business-model-canvas-essentials-professional-certification-bmcepc.png" style="width: 150px; height: 150px; margin: 20px;">
@@ -90,7 +90,7 @@ Y alguna más...
   </a>
    </br>
      <a href="https://www.credly.com/users/javier-alejandro-arteaga-gonzales/badges" style="background-color: #007bff; color: #fff; padding: 10px 20px; border-radius: 5px; 
-   text-decoration: none; font-size: 18px; transition: background-color 0.3s ease;">Ver más insignias</a>
+   text-decoration: none; font-size: 18px; transition: background-color 0.3s ease;">Ver más insignias en Credly</a>
 </div>
   <!-- Agrega tantos badges como quieras -->
 </div>
