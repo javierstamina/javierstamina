@@ -76,20 +76,20 @@ Y alguna más...
 <!-- Badges -->
 ## Insignias
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <a href="https://www.credly.com/badges/1cbc819c-02c0-45cc-8b1b-d6c1bc167356/public_url">
+  <a href="https://www.credly.com/badges/1cbc819c-02c0-45cc-8b1b-d6c1bc167356/public_url" target="_blank">
     <img src="https://github.com/javierstamina/javierstamina/blob/main/badges/business-model-canvas-essentials-professional-certification-bmcepc.png" style="width: 150px; height: 150px; margin: 20px;">
   </a>
-  <a href="https://www.credly.com/badges/a2a40900-0b46-4b41-ae7f-cfd1c745594e/public_url">
+  <a href="https://www.credly.com/badges/a2a40900-0b46-4b41-ae7f-cfd1c745594e/public_url" target="_blank">
     <img src="https://github.com/javierstamina/javierstamina/blob/main/badges/digital-marketing-professional-certificate-dmpc.png" style="width: 150px; height: 150px; margin: 20px;">
   </a>
-  <a href="https://www.credly.com/badges/eed1361b-ccda-49e5-9491-f8601f7a9f12/public_url)">
+  <a href="https://www.credly.com/badges/eed1361b-ccda-49e5-9491-f8601f7a9f12/public_url)" target="_blank">
     <img src="https://github.com/javierstamina/javierstamina/blob/main/badges/cyber-security-foundation-professional-certificate-csfpc.png  " style="width: 150px; height: 150px; margin: 20px;">
   </a>
-  <a href="https://www.credly.com/badges/eb5d963c-9d6a-4c69-95e8-89f3a4ee21f3/public_url">
+  <a href="https://www.credly.com/badges/eb5d963c-9d6a-4c69-95e8-89f3a4ee21f3/public_url" target="_blank">
     <img src="https://github.com/javierstamina/javierstamina/blob/main/badges/scrum-foundation-professional-certificate-sfpc.1.png" style="width: 150px; height: 150px; margin: 20px;">
   </a>
    </br>
-     <a href="https://www.credly.com/users/javier-alejandro-arteaga-gonzales/badges" style="background-color: #007bff; color: #fff; padding: 10px 20px; border-radius: 5px; 
+     <a href="https://www.credly.com/users/javier-alejandro-arteaga-gonzales/badges" target="_blank" style="background-color: #007bff; color: #fff; padding: 10px 20px; border-radius: 5px; 
    text-decoration: none; font-size: 18px; transition: background-color 0.3s ease;">Ver más insignias en Credly</a>
 </div>
   <!-- Agrega tantos badges como quieras -->
