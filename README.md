@@ -74,10 +74,22 @@ Y alguna más...
 
 
 <!-- Badges -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1cbc819c-02c0-45cc-8b1b-d6c1bc167356" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a2a40900-0b46-4b41-ae7f-cfd1c745594e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eed1361b-ccda-49e5-9491-f8601f7a9f12" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eed1361b-ccda-49e5-9491-f8601f7a9f12" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+## Insginias
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <a href="https://www.credly.com/badges/1cbc819c-02c0-45cc-8b1b-d6c1bc167356/public_url">
+    <img src="https://github.com/javierstamina/javierstamina/blob/main/badges/business-model-canvas-essentials-professional-certification-bmcepc.png" style="width: 100px; height: 100px; margin: 10px;">
+  </a>
+  <a href="https://www.credly.com/badges/a2a40900-0b46-4b41-ae7f-cfd1c745594e/public_url">
+    <img src="https://github.com/javierstamina/javierstamina/blob/main/badges/cyber-security-foundation-professional-certificate-csfpc.png" style="width: 100px; height: 100px; margin: 10px;">
+  </a>
+  <a href="https://www.credly.com/badges/eed1361b-ccda-49e5-9491-f8601f7a9f12/public_url)">
+    <img src="https://github.com/javierstamina/javierstamina/blob/main/badges/digital-marketing-professional-certificate-dmpc.png" style="width: 100px; height: 100px; margin: 10px;">
+  </a>
+  <a href="https://www.credly.com/badges/eb5d963c-9d6a-4c69-95e8-89f3a4ee21f3/public_url">
+    <img src="https://github.com/javierstamina/javierstamina/blob/main/badges/scrum-foundation-professional-certificate-sfpc.1.png" style="width: 100px; height: 100px; margin: 10px;">
+  </a>
+  <!-- Agrega tantos badges como quieras -->
+</div>
 
 
 <!--
