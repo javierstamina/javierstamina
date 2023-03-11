@@ -15,7 +15,8 @@
 
 <br/>
 <p>
-
+   
+- 🔭 Front End Developer.
 - 🔭 Estoy trabajando de forma autónoma Desarrollando web's y en SEO/SEM.
 - 🌱 Actualmente estoy aprendiendo Ruby.
 - 💬 Especialista en SEO (Posicionamiento web en buscadores).
