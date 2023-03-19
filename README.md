@@ -1,5 +1,5 @@
 ### Hola 👋, soy Javier Arteaga  
-[![Follow me on GitHub](https://img.shields.io/github/followers/tunombredeusuario?label=Follow&style=social)](https://github.com/javierstamina)
+[![Follow me on GitHub](https://img.shields.io/github/followers/javierstamina?label=Follow&style=social)](https://github.com/javierstamina)
 
 <p>
 <a href="https://twitter.com/Javier_Argo" target="_blank">
