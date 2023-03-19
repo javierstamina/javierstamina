@@ -1,4 +1,6 @@
-### Hola 👋, soy Javier Arteaga
+### Hola 👋, soy Javier Arteaga  
+[![Follow me on GitHub](https://img.shields.io/github/followers/tunombredeusuario?label=Follow&style=social)](https://github.com/javierstamina)
+
 <p>
 <a href="https://twitter.com/Javier_Argo" target="_blank">
    <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
