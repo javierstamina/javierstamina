@@ -52,6 +52,11 @@
 [![Google Cloud Compute Engine](https://img.shields.io/badge/Google%20Cloud-Compute%20Engine-blue.svg?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 
 </br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-blue.svg?style=for-the-badge&logo=google-cloud&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-blue.svg?style=for-the-badge&logo=google-cloud&logoColor=white)]()
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-blue.svg?style=for-the-badge&logo=google-cloud&logoColor=white)]()
+</br>
 Y alguna más...
 
 
