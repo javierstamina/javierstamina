@@ -20,7 +20,7 @@
    
 - 🔭 Front End Developer.
 - 🔭 Estoy trabajando de forma autónoma Desarrollando web's y en SEO/SEM.
-- 🌱 Actualmente estoy aprendiendo Ruby.
+- 🌱 Actualmente estoy aprendiendo Ruby y R.
 - 💬 Especialista en SEO (Posicionamiento web en buscadores).
 - 📫 Contáctame por mi Linkedin: <i class="fab fa-linkedin"> https://www.linkedin.com/in/javierargo/</i>
 
