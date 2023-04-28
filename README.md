@@ -27,6 +27,10 @@
 </p>
 <br/>
 
+### ✍️ Frase Dev del Día
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
 ## Tecnologías Informáticas:
 
 [![HTML version](https://img.shields.io/badge/HTML-5-orange.svg?style=for-the-badge&logo=html5&logoColor=white)]()
